@@ -7,5 +7,5 @@ pipenv install
 
 Command line:
 ```
-python cli.py --title="The godfather" --country="ES"
+pipenv run python cli.py --title="The godfather" --country="ES"
 ```
