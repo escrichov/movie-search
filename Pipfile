@@ -8,6 +8,3 @@ verify_ssl = true
 [packages]
 justwatch = "*"
 click = "*"
-
-[requires]
-python_version = "3.5"
